@@ -1,0 +1,9 @@
+C:\Projects\RGBv2\drivers/fsl_gpio.h:191:20:GPIO_PortSet	16	static
+C:\Projects\RGBv2\drivers/fsl_gpio.h:206:20:GPIO_PortClear	16	static
+../source/LEDRGB.c:14:6:AZULRGB	8	static
+../source/LEDRGB.c:19:6:VERDERGB	8	static
+../source/LEDRGB.c:23:6:ROJORGB	8	static
+../source/LEDRGB.c:28:6:AMARILLORGB	8	static
+../source/LEDRGB.c:32:6:MORADORGB	8	static
+../source/LEDRGB.c:36:6:APAGADORGB	8	static
+../source/LEDRGB.c:41:6:BLANCORGB	8	static

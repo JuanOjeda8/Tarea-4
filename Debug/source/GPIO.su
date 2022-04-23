@@ -1,0 +1,11 @@
+C:\Projects\RGBv2\CMSIS/core_cm4.h:1679:22:__NVIC_EnableIRQ	16	static
+C:\Projects\RGBv2\CMSIS/core_cm4.h:1809:22:__NVIC_SetPriority	16	static
+C:\Projects\RGBv2\drivers/fsl_clock.h:668:20:CLOCK_EnableClock	24	static
+C:\Projects\RGBv2\drivers/fsl_port.h:374:20:PORT_SetPinMux	24	static
+C:\Projects\RGBv2\drivers/fsl_port.h:443:20:PORT_SetPinInterruptConfig	24	static
+../source/GPIO.c:13:6:PORTA_IRQHandler	8	static
+../source/GPIO.c:21:6:PORTC_IRQHandler	8	static
+../source/GPIO.c:30:9:GPIO_intr_getswitch3	4	static
+../source/GPIO.c:34:9:GPIO_intr_getswitch2	4	static
+../source/GPIO.c:38:6:GPIO_intr_clear	16	static
+../source/GPIO.c:47:6:GPIO_init	32	static
